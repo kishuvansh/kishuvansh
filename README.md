@@ -71,7 +71,7 @@
 
 ### 🔥 Featured Projects
 
-#### 🕵️ [MULE Hunter](https://github.com/kishuvansh/mule-hunter)
+#### 🕵️ [MULE Hunter](https://github.com/kishuvansh/MULE_Hunter_for_banks)
 A high-performance machine learning pipeline built to identify **"Money Mule" accounts** within massive banking datasets — processing over **400 million transactions** across **160,000 accounts** to flag fraudulent financial activity at scale.
 `Python` `Machine Learning` `Fraud Detection` `Big Data`
 
