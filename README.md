@@ -72,8 +72,13 @@
 ### 🔥 Featured Projects
 
 #### 🕵️ [MULE Hunter](https://github.com/kishuvansh/MULE_Hunter_for_banks)
-A high-performance machine learning pipeline built to identify **"Money Mule" accounts** within massive banking datasets — processing over **400 million transactions** across **160,000 accounts** to flag fraudulent financial activity at scale.
-`Python` `Machine Learning` `Fraud Detection` `Big Data`
+A high-performance machine learning pipeline engineered to detect **Money Mule accounts** inside massive banking repositories 
+— processing an impressive scale of over **400 million transactions** across **160,000 accounts** to flag sophisticated financial crime.
+- Engineered 70+ high-value predictive features from complex transaction behaviors.
+- Deployed SHAP (SHapley Additive exPlanations) to bring transparency and auditability to flagged risk accounts.
+- Built robust ensemble architectures to significantly minimize model bias and false positives.
+
+`Python` `Machine Learning` `Fraud Detection` `Big Data` `Parquet Files` `SHAP Explainability`
 
 #### 🚦 [TrafficLens](https://github.com/kishuvansh/trafficlens)
 An ML-driven solution tackling illegal on-street parking near commercial areas, metro stations, and busy junctions in Bengaluru. Moves traffic enforcement from reactive to **predictive**:
