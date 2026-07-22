@@ -86,9 +86,9 @@ An ML-driven solution tackling illegal on-street parking near commercial areas, 
 
 #### 🛒 [Global Catalog Registry (GCR) for ONDC](https://github.com/kishuvansh/gcr-ondc)
 A centralized catalog management platform built for the **Open Network for Digital Commerce (ONDC)**, simplifying interactions between buyers and sellers by handling schema transformations, efficient data storage, and seamless API interactions.
--Redis Queue Implementation for cahing
--Designed Adaptor Layer for converting catalogs.
--Dashboard for Buyers and Sellers
+- Redis Queue Implementation for cahing
+- Designed Adaptor Layer for converting catalogs.
+- Dashboard for Buyers and Sellers
 
 `Next.js` `API Design` `E-Commerce Infrastructure`
 
